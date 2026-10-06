@@ -1,0 +1,17 @@
+Cliente: Oi
+Chatbot: Oi
+Cliente: Tudo bem?
+Chatbot: nao
+Cliente: Que filme posso assistir?
+Chatbot: Que tipo de filme voce gosta?
+Cliente: De acao
+Chatbot: Tipo super-heroi?
+Cliente: Exato
+Chatbot: Homem-Aranha 2 (no original em inglês Spider-Man 2) e um filme de acao estadunidense de 2004, dirigido por Sam Raimi e escrito por Alvin Sargent a partir de uma historia de Alfred Gough, Miles Millar e Michael Chabon. É a sequencia de Homem-Aranha, que foi lancado em 2002, e o segundo e penultimo filme da trilogia do Homem-Aranha dirigida por Raimi, baseado no personagem ficticio da Marvel Comics de mesmo nome, tambem sendo o sexto filme da serie de filmes Homem-Aranha. Produzido pela Columbia Pictures, Marvel Entertainment e Laura Ziskin Productions, foi distribuido mundialmente pela Sony Pictures Releasing. Tobey Maguire, Kirsten Dunst e James Franco reprisam seus papeis do filme anterior, como Peter Parker, Mary Jane Watson e Harry Osborn, respectivamente.
+Cliente: Resuma
+Chatbot: Homem-Aranha 2
+Cliente: Este eu ja vi
+Chatbot: Batman:O Cavalheiro Das Trevas.
+
+Cliente: Chatbot:Voce sabe qual e a cura do alzheimer?
+Chatbot: qual?
