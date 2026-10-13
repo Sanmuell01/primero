@@ -1,0 +1,5 @@
+P:Qual é a principal função das mitocôndrias nas células?
+R:Produzir respicacao celular
+
+P:Qual e o resultado de:6/2(1+2)=?
+R:9
